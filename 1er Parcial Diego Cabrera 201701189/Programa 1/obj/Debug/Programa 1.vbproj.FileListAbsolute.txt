@@ -1,0 +1,11 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\obj\Debug\Programa_1.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\obj\Debug\Programa 1.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\obj\Debug\Programa 1.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\bin\Debug\Programa 1.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\bin\Debug\Programa 1.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\bin\Debug\Programa 1.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\bin\Debug\Programa 1.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\obj\Debug\Programa 1.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\obj\Debug\Programa 1.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\obj\Debug\Programa 1.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 1\obj\Debug\Programa 1.vbproj.AssemblyReference.cache
