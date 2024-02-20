@@ -1,0 +1,11 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\bin\Debug\Programa 8.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\bin\Debug\Programa 8.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\bin\Debug\Programa 8.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\bin\Debug\Programa 8.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\obj\Debug\Programa 8.vbproj.AssemblyReference.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\obj\Debug\Programa_8.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\obj\Debug\Programa 8.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\obj\Debug\Programa 8.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\obj\Debug\Programa 8.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\obj\Debug\Programa 8.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\1P Diego Cabrera 201701189 - 092\Programa 8\obj\Debug\Programa 8.pdb
