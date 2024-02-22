@@ -1,0 +1,10 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\bin\Debug\Tarea 3 Programa 3.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\bin\Debug\Tarea 3 Programa 3.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\bin\Debug\Tarea 3 Programa 3.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\bin\Debug\Tarea 3 Programa 3.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\obj\Debug\Tarea_3_Programa_3.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\obj\Debug\Tarea 3 Programa 3.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\obj\Debug\Tarea 3 Programa 3.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\obj\Debug\Tarea 3 Programa 3.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\obj\Debug\Tarea 3 Programa 3.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 3\Tarea 3 Programa 3\obj\Debug\Tarea 3 Programa 3.pdb

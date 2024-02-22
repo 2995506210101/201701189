@@ -1,0 +1,8 @@
+Diego Cabrera:
+Número ingresado: 12
+Resultado: Compuesto
+
+Diego Cabrera:
+Número ingresado: 7
+Resultado: Primo
+
