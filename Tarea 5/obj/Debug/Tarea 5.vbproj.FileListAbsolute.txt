@@ -1,0 +1,12 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\obj\Debug\Tarea 5.vbproj.AssemblyReference.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\obj\Debug\Tarea_5.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\obj\Debug\Tarea 5.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\obj\Debug\Tarea 5.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\bin\Debug\Tarea 5.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\obj\Debug\Tarea 5.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Tarea 5\obj\Debug\Tarea 5.pdb
