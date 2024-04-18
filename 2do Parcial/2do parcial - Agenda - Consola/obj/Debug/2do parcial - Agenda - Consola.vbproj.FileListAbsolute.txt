@@ -1,0 +1,11 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\bin\Debug\2do parcial - Agenda - Consola.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\bin\Debug\2do parcial - Agenda - Consola.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\bin\Debug\2do parcial - Agenda - Consola.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\bin\Debug\2do parcial - Agenda - Consola.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\obj\Debug\2do parcial - Agenda - Consola.vbproj.AssemblyReference.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\obj\Debug\_2do_parcial___Agenda___Consola.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\obj\Debug\2do parcial - Agenda - Consola.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\obj\Debug\2do parcial - Agenda - Consola.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\obj\Debug\2do parcial - Agenda - Consola.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\obj\Debug\2do parcial - Agenda - Consola.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do parcial - Agenda - Consola\obj\Debug\2do parcial - Agenda - Consola.pdb
