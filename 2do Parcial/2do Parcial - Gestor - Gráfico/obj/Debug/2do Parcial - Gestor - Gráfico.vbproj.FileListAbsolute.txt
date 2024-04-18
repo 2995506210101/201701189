@@ -1,0 +1,12 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\bin\Debug\2do Parcial - Gestor - Gráfico.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\bin\Debug\2do Parcial - Gestor - Gráfico.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\bin\Debug\2do Parcial - Gestor - Gráfico.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\bin\Debug\2do Parcial - Gestor - Gráfico.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\obj\Debug\2do Parcial - Gestor - Gráfico.vbproj.AssemblyReference.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\obj\Debug\_2do_Parcial___Gestor___Gráfico.Form1.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\obj\Debug\_2do_Parcial___Gestor___Gráfico.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\obj\Debug\2do Parcial - Gestor - Gráfico.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\obj\Debug\2do Parcial - Gestor - Gráfico.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\obj\Debug\2do Parcial - Gestor - Gráfico.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\obj\Debug\2do Parcial - Gestor - Gráfico.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Gráfico\obj\Debug\2do Parcial - Gestor - Gráfico.pdb
