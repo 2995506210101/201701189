@@ -1,0 +1,12 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\bin\Debug\2do Parcial - Agenda - Gráfico.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\bin\Debug\2do Parcial - Agenda - Gráfico.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\bin\Debug\2do Parcial - Agenda - Gráfico.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\bin\Debug\2do Parcial - Agenda - Gráfico.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\obj\Debug\2do Parcial - Agenda - Gráfico.vbproj.AssemblyReference.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\obj\Debug\_2do_Parcial___Agenda___Gráfico.Form1.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\obj\Debug\_2do_Parcial___Agenda___Gráfico.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\obj\Debug\2do Parcial - Agenda - Gráfico.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\obj\Debug\2do Parcial - Agenda - Gráfico.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\obj\Debug\2do Parcial - Agenda - Gráfico.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\obj\Debug\2do Parcial - Agenda - Gráfico.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Agenda - Gráfico\obj\Debug\2do Parcial - Agenda - Gráfico.pdb
