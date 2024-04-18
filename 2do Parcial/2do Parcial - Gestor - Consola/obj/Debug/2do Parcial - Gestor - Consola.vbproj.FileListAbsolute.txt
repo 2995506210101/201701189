@@ -1,0 +1,11 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\obj\Debug\2do Parcial - Gestor - Consola.vbproj.AssemblyReference.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\obj\Debug\_2do_Parcial___Gestor___Consola.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\obj\Debug\2do Parcial - Gestor - Consola.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\obj\Debug\2do Parcial - Gestor - Consola.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\bin\Debug\2do Parcial - Gestor - Consola.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\bin\Debug\2do Parcial - Gestor - Consola.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\bin\Debug\2do Parcial - Gestor - Consola.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\bin\Debug\2do Parcial - Gestor - Consola.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\obj\Debug\2do Parcial - Gestor - Consola.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\obj\Debug\2do Parcial - Gestor - Consola.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\2do Parcial - Gestor - Consola\obj\Debug\2do Parcial - Gestor - Consola.pdb
