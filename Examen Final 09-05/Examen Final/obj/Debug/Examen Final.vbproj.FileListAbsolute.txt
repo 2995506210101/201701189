@@ -1,0 +1,60 @@
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\bin\Debug\Examen Final.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\bin\Debug\Examen Final.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\bin\Debug\Examen Final.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\bin\Debug\Examen Final.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen Final.vbproj.AssemblyReference.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Form1.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Form2.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Form3.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Form4.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Form5.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Form6.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Form7.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen Final.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen Final.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen Final.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen Final.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen Final.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final\obj\Debug\Examen_Final.Form8.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\bin\Debug\Examen Final.exe.config
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\bin\Debug\Examen Final.exe
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\bin\Debug\Examen Final.pdb
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\bin\Debug\Examen Final.xml
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen Final.vbproj.AssemblyReference.cache
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen Final.vbproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form1.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form2.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form3.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form4.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form5.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form6.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form7.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form8.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Resources.resources
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen Final.vbproj.GenerateResource.cache
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen Final.vbproj.CoreCompileInputs.cache
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen Final.exe
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen Final.xml
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen Final.pdb
+C:\Users\bryan\Documents\USAC\Progra2\Examen Final\obj\Debug\Examen_Final.Form9.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\bin\Debug\Examen Final.exe.config
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\bin\Debug\Examen Final.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\bin\Debug\Examen Final.pdb
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\bin\Debug\Examen Final.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen Final.vbproj.AssemblyReference.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form1.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form2.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form3.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form4.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form5.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form6.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form7.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form8.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Form9.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen_Final.Resources.resources
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen Final.vbproj.GenerateResource.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen Final.vbproj.CoreCompileInputs.cache
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen Final.exe
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen Final.xml
+C:\Users\djcab\Documents\2024\Programación de computadoras 2\Examen Final 09-05\Examen Final\obj\Debug\Examen Final.pdb
